@@ -1,0 +1,81 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>hard_hat_workers4248.png</filename>
+    <path>C:\Users\admin\Desktop\Images\hard_hat_workers4248.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>415</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>136</xmin>
+            <ymin>141</ymin>
+            <xmax>163</xmax>
+            <ymax>177</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>219</xmin>
+            <ymin>137</ymin>
+            <xmax>259</xmax>
+            <ymax>184</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>181</xmin>
+            <ymin>153</ymin>
+            <xmax>208</xmax>
+            <ymax>192</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>262</xmin>
+            <ymin>157</ymin>
+            <xmax>302</xmax>
+            <ymax>208</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>319</xmin>
+            <ymin>159</ymin>
+            <xmax>379</xmax>
+            <ymax>216</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>113</xmin>
+            <ymin>147</ymin>
+            <xmax>132</xmax>
+            <ymax>177</ymax>
+        </bndbox>
+    </object>
+</annotation>

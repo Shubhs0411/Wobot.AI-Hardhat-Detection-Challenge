@@ -1,0 +1,37 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>hard_hat_workers4238.png</filename>
+    <path>C:\Users\admin\Desktop\Images\hard_hat_workers4238.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>212</xmin>
+            <ymin>113</ymin>
+            <xmax>392</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>213</xmin>
+            <ymin>-2</ymin>
+            <xmax>395</xmax>
+            <ymax>57</ymax>
+        </bndbox>
+    </object>
+</annotation>

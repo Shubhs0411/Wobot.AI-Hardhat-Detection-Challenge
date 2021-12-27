@@ -1,0 +1,70 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>hard_hat_workers3868.png</filename>
+    <path>C:\Users\admin\Desktop\Images\hard_hat_workers3868.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>415</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>185</xmin>
+            <ymin>92</ymin>
+            <xmax>258</xmax>
+            <ymax>184</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>62</xmin>
+            <ymin>0</ymin>
+            <xmax>140</xmax>
+            <ymax>58</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>64</xmin>
+            <ymin>83</ymin>
+            <xmax>136</xmax>
+            <ymax>168</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>187</xmin>
+            <ymin>0</ymin>
+            <xmax>255</xmax>
+            <ymax>45</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>216</xmin>
+            <ymin>196</ymin>
+            <xmax>292</xmax>
+            <ymax>267</ymax>
+        </bndbox>
+    </object>
+</annotation>

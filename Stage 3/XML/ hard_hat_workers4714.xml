@@ -1,0 +1,114 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>hard_hat_workers4714.png</filename>
+    <path>C:\Users\admin\Desktop\Images\hard_hat_workers4714.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>head</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>200</xmin>
+            <ymin>143</ymin>
+            <xmax>223</xmax>
+            <ymax>174</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>head</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>121</xmin>
+            <ymin>149</ymin>
+            <xmax>141</xmax>
+            <ymax>171</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>head</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>139</xmin>
+            <ymin>153</ymin>
+            <xmax>165</xmax>
+            <ymax>183</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>head</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>233</xmin>
+            <ymin>148</ymin>
+            <xmax>248</xmax>
+            <ymax>167</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>head</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>42</xmin>
+            <ymin>152</ymin>
+            <xmax>71</xmax>
+            <ymax>183</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>head</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>263</xmin>
+            <ymin>153</ymin>
+            <xmax>288</xmax>
+            <ymax>181</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>helmet</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>87</xmin>
+            <ymin>152</ymin>
+            <xmax>112</xmax>
+            <ymax>179</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>head</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>175</xmin>
+            <ymin>151</ymin>
+            <xmax>192</xmax>
+            <ymax>171</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>head</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>297</xmin>
+            <ymin>154</ymin>
+            <xmax>319</xmax>
+            <ymax>180</ymax>
+        </bndbox>
+    </object>
+</annotation>
